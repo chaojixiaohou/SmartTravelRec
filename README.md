@@ -105,7 +105,7 @@ streamlit run app.py
 ### 2. Web 可视化交互界面
 > Streamlit 界面展示
 
-![Web界面截图](./images/case2.png)
+![Web界面截图](./images/case4.png)
 
 
 ### 3. 服务降级（断网测试）
