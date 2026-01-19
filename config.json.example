@@ -1,0 +1,9 @@
+{
+  "baidu_api": {
+    "api_key": "YOUR_BAIDU_KEY_HERE",
+    "secret_key": "YOUR_SECRET_KEY_HERE"
+  },
+  "ali_api": {
+    "api_key": "YOUR_ALIYUN_KEY_HERE"
+  }
+}
